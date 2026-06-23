@@ -1,6 +1,8 @@
 # URLSense — URL Semantic grouping system
 
 URLSense clusters and groups URLs by semantic similarity using embeddings and unsupervised clustering. The Streamlit app accepts a list of URLs, extracts page content, creates embeddings, performs agglomerative clustering, and returns labeled groups with a downloadable CSV.
+## 🚀 Live Demo
+🔗 **Try the deployed app here:** [URLSense Streamlit App](https://urlssemanticgroupingsystem.streamlit.app/)
 
 ## Features
 
